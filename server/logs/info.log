@@ -1,0 +1,24 @@
+{"level":"info","message":"GET / 200 585.897 ms - 283\n","timestamp":"12-11-22 21-03-38"}
+{"level":"error","message":"404 - Page Not Found - /favicon.ico - Method: GET","timestamp":"12-11-22 21-03-39"}
+{"level":"info","message":"GET /favicon.ico 404 17.218 ms - 2297\n","timestamp":"12-11-22 21-03-39"}
+{"level":"info","message":"GET / 304 990.247 ms - -\n","timestamp":"12-11-22 23-59-54"}
+{"level":"error","message":"404 - Page Not Found - /favicon.ico - Method: GET","timestamp":"12-11-22 23-59-55"}
+{"level":"info","message":"GET /favicon.ico 404 23.282 ms - 2297\n","timestamp":"12-11-22 23-59-55"}
+{"level":"info","message":"GET / 304 12.362 ms - -\n","timestamp":"13-11-22 00-08-39"}
+{"level":"info","message":"GET / 304 12.897 ms - -\n","timestamp":"13-11-22 00-08-47"}
+{"level":"info","message":"GET / 304 85.492 ms - -\n","timestamp":"13-11-22 00-12-14"}
+{"level":"info","message":"GET / 304 13.290 ms - -\n","timestamp":"13-11-22 00-17-40"}
+{"level":"info","message":"GET / 304 10.681 ms - -\n","timestamp":"13-11-22 00-39-31"}
+{"level":"info","message":"GET / 304 8.804 ms - -\n","timestamp":"13-11-22 00-39-32"}
+{"level":"info","message":"GET / 304 4.393 ms - -\n","timestamp":"13-11-22 00-39-33"}
+{"level":"info","message":"GET / 304 16.774 ms - -\n","timestamp":"13-11-22 00-39-34"}
+{"level":"info","message":"GET / 304 6.257 ms - -\n","timestamp":"13-11-22 00-39-34"}
+{"level":"info","message":"GET / 304 26.691 ms - -\n","timestamp":"13-11-22 00-57-19"}
+{"level":"info","message":"GET / 304 9.052 ms - -\n","timestamp":"13-11-22 02-04-32"}
+{"level":"info","message":"GET / 304 9.049 ms - -\n","timestamp":"13-11-22 02-04-37"}
+{"level":"info","message":"GET / 304 787.493 ms - -\n","timestamp":"13-11-22 22-36-20"}
+{"level":"error","message":"404 - Page Not Found - /favicon.ico - Method: GET","timestamp":"13-11-22 22-36-20"}
+{"level":"info","message":"GET /favicon.ico 404 9.289 ms - 2297\n","timestamp":"13-11-22 22-36-20"}
+{"level":"info","message":"GET / 304 17.363 ms - -\n","timestamp":"13-11-22 22-40-55"}
+{"level":"info","message":"GET / 200 10.398 ms - 638\n","timestamp":"13-11-22 22-59-23"}
+{"level":"info","message":"GET / 304 7.135 ms - -\n","timestamp":"13-11-22 22-59-26"}
