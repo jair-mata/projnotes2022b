@@ -22,3 +22,13 @@
 {"level":"info","message":"GET / 304 17.363 ms - -\n","timestamp":"13-11-22 22-40-55"}
 {"level":"info","message":"GET / 200 10.398 ms - 638\n","timestamp":"13-11-22 22-59-23"}
 {"level":"info","message":"GET / 304 7.135 ms - -\n","timestamp":"13-11-22 22-59-26"}
+{"level":"info","message":"GET / 200 796.794 ms - 633\n","timestamp":"14-11-22 07-15-15"}
+{"level":"error","message":"404 - Page Not Found - /favicon.ico - Method: GET","timestamp":"14-11-22 07-15-16"}
+{"level":"info","message":"GET /favicon.ico 404 13.142 ms - 2297\n","timestamp":"14-11-22 07-15-16"}
+{"level":"info","message":"GET / 304 19.620 ms - -\n","timestamp":"14-11-22 07-28-38"}
+{"level":"info","message":"GET / 304 14.051 ms - -\n","timestamp":"14-11-22 07-32-53"}
+{"level":"info","message":"GET / 304 5.538 ms - -\n","timestamp":"14-11-22 07-33-54"}
+{"level":"info","message":"GET / 304 8.365 ms - -\n","timestamp":"14-11-22 07-42-07"}
+{"level":"info","message":"GET / 304 5.278 ms - -\n","timestamp":"14-11-22 07-43-20"}
+{"level":"info","message":"GET / 304 7.659 ms - -\n","timestamp":"14-11-22 07-49-57"}
+{"level":"info","message":"GET / 304 7.928 ms - -\n","timestamp":"14-11-22 07-51-29"}
